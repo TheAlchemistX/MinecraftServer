@@ -1,5 +1,5 @@
-*
 /*
 !.gitignore
 !/mods
+!/mods/*
 !README.md
